@@ -1,0 +1,7 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Graphics" parent="Theme.Material3.DayNight.NoActionBar">>
+    </style>
+
+    <style name="Theme.Graphics" parent="Base.Theme.Graphics" />
+</resources>
